@@ -1,2 +1,2 @@
 # Virenprojekt
-Nicht vergessen - Push before Pull ;)
+Bitte alles immer schoen aufgeraeumt halten :)
